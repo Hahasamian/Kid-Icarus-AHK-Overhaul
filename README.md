@@ -13,6 +13,6 @@ When you've got Kid Icarus Uprising ready to play on Citra, start up "KICitra.ah
 EXTRAS:  
 In the "Steam-graphics" folder you can find some nice assets to make a nice and pretty Steam shortcut  
 To make an easy launcher, you can code a batch file to open Citra (or the game file itself) and KICitra.ahk at the same time.  
-I may make a tutorial on more things, but for now I just wanna put this out here!  
+I may make a tutorial on more things including batch file making and controller setup with Steam, but for now I just wanna put this out here!  
 
 Repo and updates at: https://github.com/Hahasamian/Kid-Icarus-AHK-Overhaul/
