@@ -13,6 +13,8 @@
 ; far less janky, thing. Still, it can only go so far, so make sure to maximize your in-game sensitivity for the best experience!
 ;If something feels off, check out the Cusomization Settings section!
 
+;PRESS ESC TO STOP RUNNING THE SCRIPT AT ANY TIME!
+
 ;-MODE EXPLANATIONS-
 ;MENU MODE
 ;By default, you're in Menu Mode (which can be activated with the 1 key). It allows you to easily operate menus.
@@ -34,7 +36,7 @@
 ;  If your window is less than 1920 pixels long and/or doesn't have the touchscreen at full size (shame on you),
 ;  the wrapping boundaries may become an issue, so make sure to adjust them accordingly!
 
-;GENERALL INPUT
+;GENERAL INPUT
 ;WASD is the Circle Pad! Shift will slow its movement. Control is the R button, which recenters the camera!
 ;You can use the scroll wheel and click it to select and use items. You can also press Z-X-C, or E!
 ;ABXY are mapped to FRGT. You won't need to be using them much though
